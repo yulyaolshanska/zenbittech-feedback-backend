@@ -12,16 +12,10 @@ export class FeedbackService {
   ) {}
 
   async createFeedback(createFeedbackDto: CreateFeedbackDto): Promise<any> {
-    // const feedback = new Feedback();
-    // feedback.name = "Me and Bears";
-    // feedback.email = "I am near polar bears";
-    // feedback.message = "photo-with-bears.jpg";
-
     const feedback = new Feedback();
     feedback.name = createFeedbackDto.name;
     feedback.email = createFeedbackDto.email;
     feedback.message = createFeedbackDto.message;
-    console.log(feedback);
     return await this.feedbacksRepository.save(feedback);
   }
 }
