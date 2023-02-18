@@ -24,8 +24,27 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+# Zenbittech test case
 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FzenBitTech%2F&psig=AOvVaw08xJQRNkgvxWa8c07NbWnW&ust=1676817222662000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMCNgImln_0CFQAAAAAdAAAAABAE" width="50px">
+
+## https://feedback-test-case.netlify.app/
+
+Used technologies:
+
+- NodeJS
+- NestJS
+- PostgresSQL
+- TypeScript
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" title="Node" alt="Node" width="40"         height="40"/>&nbsp;
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS " width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="PostgresSQL" alt="PostgresSQL " width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript " width="40" height="40"/>&nbsp;
+
+</div>
 ## Installation
 
 ```bash
@@ -57,17 +76,3 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
