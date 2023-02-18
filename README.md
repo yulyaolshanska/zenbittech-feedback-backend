@@ -1,6 +1,6 @@
 # Zenbittech test case
 
-<img src="https://s.dou.ua/CACHE/images/img/events/a3ea1a637167972009e45fe011f04071_FXQSdzP/f9f9ce0d739bc110cbc75bc85156180b.png" width="250px">
+<img src="https://s.dou.ua/CACHE/images/img/events/a3ea1a637167972009e45fe011f04071_FXQSdzP/f9f9ce0d739bc110cbc75bc85156180b.png" width="230px">
 
 ## https://feedback-test-case.netlify.app/
 
